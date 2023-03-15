@@ -1,24 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on Python <br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA<br>💬 Ask me about Python<br>⚡ Fun fact -> I love reading books
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
+<h3 align="center">A passionate python developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clever_khan77) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cleverkhan77) 
+<p align="left"> <a href="https://twitter.com/cleverkhan77" target="blank"><img src="https://img.shields.io/twitter/follow/cleverkhan77?logo=twitter&style=for-the-badge" alt="cleverkhan77" /></a> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUHAMMAD-SOHAIL-KHAN-BURKI&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMAD-SOHAIL-KHAN-BURKI&theme=city_light&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-SOHAIL-KHAN-BURKI&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 🔭 I’m currently working on **Python**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MUHAMMAD-SOHAIL-KHAN-BURKI&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+- 👯 I’m looking to collaborate on **python projects**
 
----
-[![](https://visitcount.itsvg.in/api?id=MUHAMMAD-SOHAIL-KHAN-BURKI&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🤝 I’m looking for help with **DSA**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **Python , Django, Git**
+
+- 📫 How to reach me **cleverkhan77@gmail.com**
+
+- ⚡ Fun fact **I think I am a good teacher**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cleverkhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleverkhan77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-sohail-53842b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sohail-53842b262" height="30" width="40" /></a>
+<a href="https://instagram.com/clever_khan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clever_khan77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/muhammadsohailk1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammadsohailk1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-sohail-khan-burki&show_icons=true&locale=en&layout=compact" alt="muhammad-sohail-khan-burki" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-sohail-khan-burki&show_icons=true&locale=en" alt="muhammad-sohail-khan-burki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-sohail-khan-burki&" alt="muhammad-sohail-khan-burki" /></p>
