@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 🤝 I’m looking for help with **DSA**
 
