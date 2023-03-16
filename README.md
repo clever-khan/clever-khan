@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="circular-images.css">
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FrXOMj9WwEYQjGW?format=jpg&name=small">
+<img align="right" alt="Coding" width="300" src="https://pbs.twimg.com/media/FrXOMj9WwEYQjGW?format=jpg&name=small">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
