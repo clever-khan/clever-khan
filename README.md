@@ -23,6 +23,8 @@
 
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small">
 
+<img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cleverkhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleverkhan77" height="30" width="40" /></a>
