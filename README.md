@@ -24,10 +24,3 @@
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small">
 
 <img align="left" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clever-khan&show_icons=true&locale=en&layout=compact" alt="clever-khan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clever-khan&show_icons=true&locale=en" alt="clever-khan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clever-khan&" alt="clever-khan" /></p>
