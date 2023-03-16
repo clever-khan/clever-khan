@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<link rel="stylesheet" href="css/circular-images.css">
+<link rel="stylesheet" href="circular-images.css">
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
