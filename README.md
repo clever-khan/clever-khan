@@ -2,8 +2,7 @@
 <link rel="stylesheet" href="circular-images.css">
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
-<img style="position: relative;
-  width: 400px;
+<img style="width: 400px;
   height: 400px;
   border-radius: 50%;" align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
 
