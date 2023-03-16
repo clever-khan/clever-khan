@@ -23,7 +23,7 @@
 
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small">
 
-<img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
+<img align="left" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
