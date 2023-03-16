@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I think I am a good teacher**
 
-<p> <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small"> <p>
+
 
 
 <img align="left" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
