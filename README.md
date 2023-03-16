@@ -2,7 +2,11 @@
 <link rel="stylesheet" href="circular-images.css">
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
+<img style="position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;" align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
@@ -25,32 +29,3 @@
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small">
 
 <img align="left" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    
-    <title>GITHUB | KHAN</title>
-    
-    <meta name="description" content="Rendering rounded HTML img elements.">
-    <meta name="author" content="Six Revisions">
-    <link rel="stylesheet" href="circular-images.css">
-    
-  </head>
-  <body>
-    
-    <div class="section" id="square">
-
-      <div class="column">
-    <img class="circular--square" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small" />
-</div>
-
-    </div>
-
-
-
-  </body>
-</html>
