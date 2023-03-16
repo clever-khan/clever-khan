@@ -1,7 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<link rel="stylesheet" href="css/circular-images.css">
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
+
+<div class="column">
+    <img class="circular--square" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
