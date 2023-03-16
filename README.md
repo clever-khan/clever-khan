@@ -29,4 +29,5 @@
 
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXPBXLWwBo86ko?format=jpg&name=small"><br>
 
-<img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small">
+
+<p align="left"> <img src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small" alt="cleverkhan77" /></a> </p>
