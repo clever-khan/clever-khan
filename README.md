@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clever-khan&" alt="clever-khan" /></p>
 
-<img (CS50.png)>
+![PYTHON](CS50P.png)
