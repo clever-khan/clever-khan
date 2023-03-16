@@ -3,14 +3,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 <img style="position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 50%;
-  margin-left: -50px;
-  overflow: hidden;
-  display: inline-block;
-  position: relative;" align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;" align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/FoJrqdWXwAANoJo?format=jpg&name=small">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
