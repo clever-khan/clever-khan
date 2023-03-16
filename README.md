@@ -25,8 +25,8 @@
 
 <img align="left" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXDlsLWwAc2ADh?format=jpg&name=small">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/cleverkhan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleverkhan77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-sohail-53842b262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-sohail-53842b262" height="30" width="40" /></a>
 <a href="https://instagram.com/clever_khan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clever_khan77" height="30" width="40" /></a>
