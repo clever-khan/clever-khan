@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clever-khan&show_icons=true&locale=en" alt="clever-khan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clever-khan&" alt="clever-khan" /></p>
+
+![PYTHON](CS50.png)
