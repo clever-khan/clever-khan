@@ -29,5 +29,6 @@
 
 <img align="right" alt="Certificate" width="400" src="https://pbs.twimg.com/media/FrXPBXLWwBo86ko?format=jpg&name=small"><br>
 
+- 🎗️ Certified from **Harvard University, HackerRank**
 
 <div <p align="left"> <img align="left" width="400" src="https://pbs.twimg.com/media/FpK7pOuXsAAnfEh?format=jpg&name=small" alt="cleverkhan77" /></p> </div>
