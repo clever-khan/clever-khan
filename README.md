@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Sohail</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
-<img align="right" alt="Coding" width="500" src="https://pbs.twimg.com/media/FrXOMj9WwEYQjGW?format=jpg&name=small">
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-sohail-khan-burki&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-sohail-khan-burki" /> </p>
 
